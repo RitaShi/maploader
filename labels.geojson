@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "name": "那拉提大草原",
-		"img": "tag.png"
+		"img": "https://github.com/RitaShi/maploader/blob/main/tag.png"
       },
       "geometry": {
         "coordinates": [
