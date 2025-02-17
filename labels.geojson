@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "name": "那拉提大草原",
-		"img": "https://github.com/RitaShi/maploader/blob/main/tag.png"
+		"img": "https://raw.githubusercontent.com/RitaShi/maploader/refs/heads/main/tag.png"
       },
       "geometry": {
         "coordinates": [
@@ -20,7 +20,7 @@
       "type": "Feature",
       "properties": {
         "name": "乔尔玛烈士陵园",
-		"img": "tag.png"
+		"img": "https://raw.githubusercontent.com/RitaShi/maploader/refs/heads/main/tag.png"
       },
       "geometry": {
         "coordinates": [
@@ -35,7 +35,7 @@
       "type": "Feature",
       "properties": {
         "name": "赛里木湖",
-		"img": "tag.png"
+		"img": "https://raw.githubusercontent.com/RitaShi/maploader/refs/heads/main/tag.png"
       },
       "geometry": {
         "coordinates": [
@@ -50,7 +50,7 @@
       "type": "Feature",
       "properties": {
         "name": "霍尔果斯",
-		"img": "tag.png"
+		"img": "https://raw.githubusercontent.com/RitaShi/maploader/refs/heads/main/tag.png"
       },
       "geometry": {
         "coordinates": [
@@ -65,7 +65,7 @@
       "type": "Feature",
       "properties": {
         "name": "尼勒克县",
-		 "img": "tag.png"
+		 "img": "https://raw.githubusercontent.com/RitaShi/maploader/refs/heads/main/tag.png"
       },
       "geometry": {
         "coordinates": [
@@ -81,7 +81,7 @@
       "type": "Feature",
       "properties": {
         "name": "伊宁",
-		 "img": "tag.png"
+		 "img": "https://raw.githubusercontent.com/RitaShi/maploader/refs/heads/main/tag.png"
       },
       "geometry": {
         "coordinates": [
@@ -96,7 +96,7 @@
       "type": "Feature",
       "properties": {
 	     "name": "喀拉峻",
-		 "img": "tag2.png"
+		 "img": "https://raw.githubusercontent.com/RitaShi/maploader/refs/heads/main/tag2.png"
 	  },
       "geometry": {
         "coordinates": [
@@ -111,7 +111,7 @@
       "type": "Feature",
       "properties": {
 	     "name": "清水河",
-		 "img": "tag3.png"
+		 "img": "https://raw.githubusercontent.com/RitaShi/maploader/refs/heads/main/tag3.png"
 	  },
       "geometry": {
         "coordinates": [
