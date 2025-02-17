@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+		"layout": "vertical",
+        "name": "独库公路"
+      },
+      "geometry": {
+        "coordinates": [
+          84.37182382770119,
+          43.37687152934532
+        ],
+        "type": "Point"
+      },
+      "id": 20
+    },
+    {
+      "type": "Feature",
+      "properties": {
+	    "layout": "landscape",
+        "name": "百 里 画 廊"
+      },
+      "geometry": {
+        "coordinates": [
+          83.15123513221113,
+          43.782327653733546
+        ],
+        "type": "Point"
+      },
+      "id": 21
+    }
+  ],
+  "bbox": null
+}

@@ -1,0 +1,104 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "distance": "30km/0.5h"
+      },
+      "geometry": {
+        "coordinates": [
+          80.59608400956762,
+          44.18413870879044
+        ],
+        "type": "Point"
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "distance": "110km/2h"
+      },
+      "geometry": {
+        "coordinates": [
+          81.0063698088083,
+          44.3818469135183
+        ],
+        "type": "Point"
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "distance": "53km/1.25h"
+      },
+      "geometry": {
+        "coordinates": [
+          80.86085662581843,
+          44.02973997349599
+        ],
+        "type": "Point"
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "distance": "270km/2.5h"
+      },
+      "geometry": {
+        "coordinates": [
+          82.89160892925463,
+          43.56810411200556
+        ],
+        "type": "Point"
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "distance": "260km/3.5h"
+      },
+      "geometry": {
+        "coordinates": [
+          84.41071458099293,
+          43.54045585688195
+        ],
+        "type": "Point"
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "distance": "170km/3h"
+      },
+      "geometry": {
+        "coordinates": [
+          83.8922131963347,
+          43.72347720356993
+        ],
+        "type": "Point"
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "distance": "114km/2h"
+      },
+      "geometry": {
+        "coordinates": [
+          82.06122492381803,
+          43.894087793518736
+        ],
+        "type": "Point"
+      },
+      "id": 19
+    }
+  ],
+  "bbox": null
+}
